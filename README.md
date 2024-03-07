@@ -1,4 +1,4 @@
-![log](
+![log](https://github.com/Vasu7reddy/audiofiles/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Vasu Kanchamreddy</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" height="350" width="500" src="https://github.com/Vasu7reddy/audiofiles/blob/main/full-stack-development.gif?raw=true">
