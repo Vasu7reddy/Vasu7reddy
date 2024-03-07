@@ -1,7 +1,7 @@
 ![log](
 <h1 align="center">Hi 👋, I'm Vasu Kanchamreddy</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" height="350" width="500" src="">
+<img align="right" alt="Coding" height="350" width="500" src="https://github.com/Vasu7reddy/audiofiles/blob/main/full-stack-development.gif?raw=true">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasu7reddy&label=Profile%20views&color=0e75b6&style=flat" alt="vasu7reddy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vasu7kvr" target="blank"><img src="https://img.shields.io/twitter/follow/vasu7kvr?logo=twitter&style=for-the-badge" alt="vasu7kvr" /></a> </p>
